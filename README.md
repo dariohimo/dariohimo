@@ -29,11 +29,17 @@ Here are some ideas to get you started:
 
 ---
 ## PROJECT SCREENSHOTS Bootcam Programate.
+---
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://process.filestackapi.com/resize=width:300,height:100,fit:max/quality=value:90/XCJiXIchRDmj0ORyMCRv" />
   </a>
-<p align="right">
+</p>
+
+___
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://simplon.co/images/logo.svg" width="100" height="50" />
   </a>
