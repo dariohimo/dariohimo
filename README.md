@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## PROJECT SCREENSHOTS Bootcam Programate.
+---
+![dariohimo snake gif](img/github_snake.svg)
 ___
 
 ## Toquen el DOM 
