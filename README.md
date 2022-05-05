@@ -32,7 +32,7 @@ ___
 ##  toDoList
 ___
 
-[![ToDoList](./img/toquenElDom.png "ToDoLIst Mern")](https://todofrond.herokuapp.com/)
+[![ToDoList](./img/toDoListMERN.png "ToDoLIst Mern")](https://todofrond.herokuapp.com/)
 
 ___
 
