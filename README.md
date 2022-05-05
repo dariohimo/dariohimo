@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <a href="https://educamas.com.co/">
+  <a href="https://educamas.com.co/" target="_blank">
     <img src="https://process.filestackapi.com/resize=width:300,height:100,fit:max/quality=value:90/XCJiXIchRDmj0ORyMCRv" />
   </a>
 </p>
@@ -40,10 +40,11 @@ Here are some ideas to get you started:
 ___
 
 <p align="center">
-  <a href="https://simplom.co">
+  <a href="https://simplom.co" target="_blank">
     <img src="https://simplon.co/images/logo.svg" width="100" height="50" />
   </a>
 </p>
+
 ___
 ---
 
