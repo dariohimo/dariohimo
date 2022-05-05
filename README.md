@@ -35,7 +35,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+___
 ---
+
 ![dariohimo snake gif](img/github_snake.svg)
 ___
 
