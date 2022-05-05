@@ -28,8 +28,13 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
 ## PROJECT SCREENSHOTS Bootcam Programate.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://process.filestackapi.com/resize=width:600,height:315,fit:max/quality=value:90/XCJiXIchRDmj0ORyMCRv" />
+  </a>
+</p>
+
 ---
 ![dariohimo snake gif](img/github_snake.svg)
 ___
