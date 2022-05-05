@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://educamas.com.co/">
     <img src="https://process.filestackapi.com/resize=width:300,height:100,fit:max/quality=value:90/XCJiXIchRDmj0ORyMCRv" />
   </a>
 </p>
@@ -40,16 +40,15 @@ Here are some ideas to get you started:
 ___
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://simplom.co">
     <img src="https://simplon.co/images/logo.svg" width="100" height="50" />
   </a>
 </p>
-
 ___
 ---
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a >
     <img src="./img/hackaton_F5.png" width="200" height="150" />
   </a>
 </p>
