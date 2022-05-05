@@ -45,6 +45,14 @@ ___
   </a>
 </p>
 
+___
+---
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="./img/hackaton_F5.png" width="200" height="150" />
+  </a>
+</p>
 
 ___
 ---
