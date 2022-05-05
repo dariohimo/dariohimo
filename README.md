@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dariohimo/dariohimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +11,23 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- example icon 
+- https://jsrepos.com/lib/showcase-your-skills-on-your-github-readme-or-resum-with-ease
+
 -->
+---
+---
+### Hi there 👋
+---
+---
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vim,django,bootstrap,linux,python,bash" />
+  </a>
+</p>
+
+---
 
 ## PROJECT SCREENSHOTS Bootcam Programate.
 ---
@@ -59,5 +73,30 @@ ___
 
 [![turtel_Snake](./img/snake.png "Snake")](https://replit.com/@dariohimo/snake?v=1)
 
+___
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">
+
+## THE STACKS I KNOW
+
+[![css](https://skillicons.dev/icons?i=css)](https://skillicons.dev) **CSS** 
+___
+
+[![Js](https://skillicons.dev/icons?i=js)](https://skillicons.dev) **JAVASCRIPT**
+___
+
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) **HTML**
+
+___
+
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) **PYTHON**
+___
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+ **BOOTSTRAP**
+___
+[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev) **DJANGO**
+___
+
+[![My Skills](https://skillicons.dev/icons?i=markdown)](https://skillicons.dev) **MARKDOWN**
 ___
 
