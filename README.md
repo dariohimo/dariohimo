@@ -35,10 +35,10 @@ Here are some ideas to get you started:
   </a>
 <p align="right">
   <a href="https://skillicons.dev">
-    <img src="https://simplon.co/images/logo.svg" width="150" height="50" />
+    <img src="https://simplon.co/images/logo.svg" width="100" height="50" />
   </a>
 </p>
-</p>
+
 
 ___
 ---
