@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## PROJECT SCREENSHOTS Bootcam Programate.
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://process.filestackapi.com/resize=width:600,height:315,fit:max/quality=value:90/XCJiXIchRDmj0ORyMCRv" />
+    <img src="https://process.filestackapi.com/resize=width:600,height:100,fit:max/quality=value:90/XCJiXIchRDmj0ORyMCRv" />
   </a>
 </p>
 
